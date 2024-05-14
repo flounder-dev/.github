@@ -1,4 +1,4 @@
-<img align="left" width="365" src="https://github.com/flounder-dev/.github/assets/46762446/abfb1dbc-5b22-4a3c-8d95-e9b723447547">
+<img align="left" width="335" src="https://github.com/flounder-dev/.github/assets/46762446/abfb1dbc-5b22-4a3c-8d95-e9b723447547">
 
 ### A small development effort.
 
